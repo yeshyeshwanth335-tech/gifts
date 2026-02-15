@@ -170,7 +170,12 @@ function sendOrder(){
 
 <a href="upi://pay?pa=7892483787@ybl&pn=Yesh%20Gifts&am=299&cu=INR">
     <button type="button">Pay with PhonePe</button>
-</a>
+</a> 
+<a href="upi://pay?pa=7892483787@ybl&pn=Yesh%20Gifts&am=&cu=INR">
+    <button type="button">Pay with PhonePe</button>
+</a> 
+
+
 
 </div>
 
