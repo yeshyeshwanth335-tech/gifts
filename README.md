@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta charset="UTF-8">
@@ -132,7 +132,7 @@ function sendOrder(){
 
 <header>
 <h1>🎁 Yesh Gifts</h1>
-<p>Upload Photo & Order Your Custom Mug ☕</p>
+<p>Upload Photo & Order Your Customized Mug ☕</p>
 </header>
 
 <div class="section">
