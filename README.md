@@ -164,7 +164,7 @@ function sendOrder(){
 <button onclick="sendOrder()">Send Order on WhatsApp</button>
 
 <div class="payment-buttons">
-<a href="upi://pay?pa=7@ybl&pn=Yesh%20Gifts&cu=INR">
+<a href="upi://pay?pa=7892483787@ybl&pn=Yesh%20Gifts&cu=INR">
 <button type="button">Pay with PhonePe</button>
 </a>
 
