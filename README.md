@@ -168,9 +168,10 @@ function sendOrder(){
 <button type="button">Pay with PhonePe</button>
 </a>
 
-<a href="upi://pay?pa=7760932963@okaxis&pn=Yesh%20Gifts&cu=INR">
-<button type="button">Pay with Google Pay</button>
+<a href="upi://pay?pa=7760932963@ybl&pn=Yesh%20Gifts&am=299&cu=INR">
+    <button type="button">Pay with PhonePe</button>
 </a>
+
 </div>
 
 <p>After payment, send screenshot on WhatsApp.</p>
